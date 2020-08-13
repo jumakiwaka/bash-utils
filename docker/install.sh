@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# script to install docker and docker-compose
+# script to install docker and docker-compose on Ubuntu 18.04 x64
 # update dependencies
 sudo apt-get update
 
