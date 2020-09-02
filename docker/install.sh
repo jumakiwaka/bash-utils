@@ -38,3 +38,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker -v
 
 docker-compose -v
+
+# Add docker to sudo group
+sudo usermod -aG docker $USER
