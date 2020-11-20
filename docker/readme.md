@@ -1,4 +1,3 @@
 # Running the install script
 
-1. Make the file executable ```sudo chmod +x install.sh```
-2. run ```./install.sh```
+1. In your bash run ```curl -o- https://raw.githubusercontent.com/jumakiwaka/bash-utils/master/docker/install.sh | bash```
